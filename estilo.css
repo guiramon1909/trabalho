@@ -84,4 +84,10 @@ button{
     background-color: #1a73e8;
     color: white;
     border-radius: 5px;
+    cursor: pointer;
+    transition: backgroud-color 0.3;
+}
+
+button:hover{
+    background-color: #0d5ac1;
 }
